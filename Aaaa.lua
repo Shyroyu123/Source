@@ -706,3 +706,4 @@ function Library:create(options)
 			if key.UserInputType == Enum.UserInputType.MouseButton1 then
 				down = false
 				homeButton:tween{BackgroundTransparency = ((selectedTab == homeButton) an
+return Library
